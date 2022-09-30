@@ -1,2 +1,2 @@
-# Practic
+# Practice
 Practical
